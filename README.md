@@ -19,7 +19,7 @@ Windows machine
 
 All commands are cross-checked against the official OpenCode docs, Microsoft Learn, and Tailscale docs (links are included at the end of each language version).
 
-**Repository files:** the full tutorial lives in this README (both languages); `implementation_plan.md` records the approved plan; `LICENSE` is the MIT license.
+**Repository files:** the full tutorial lives in this README (both languages); `implementation_plan.md` records the approved plan (also bilingual EN/ZH); `LICENSE` is the MIT license.
 
 ---
 
@@ -530,6 +530,7 @@ opencode web --hostname 0.0.0.0 --port 4096
 - Tailscale Windows 安裝文件：https://tailscale.com/kb/1022/install-windows
 - Tailscale + WSL2 mirrored 實測 issue（證實 Tailscale IP 可連 WSL 服務）：https://github.com/tailscale/tailscale/issues/14790
 - opencode iOS 相關 issue（PWA 持續改善中）：https://github.com/anomalyco/opencode/issues/35480 、 https://github.com/anomalyco/opencode/issues/10288
+
 
 
 
